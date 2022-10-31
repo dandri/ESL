@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Noni
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 178 89969 173 89971 170 89977 174 89969 199

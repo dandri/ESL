@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Ice2
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 174 12297 176 12399 176 24867 171 12300 173 125106 174 112476 171 112584 177 12344 169 12351 198 87462 199

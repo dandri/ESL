@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Boni999
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 175 6724 173 6606 179 6671 175 6732 175 6706 171 6782 176 6731 176

@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Hagkaup
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 306 1586 201 104 176 326 199 1417 309 775 256 1689 174 594 197 576 174 547 203 2452 203 2397 197 906 171 5032 176

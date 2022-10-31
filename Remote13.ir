@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Bonus13
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 173 88929 172

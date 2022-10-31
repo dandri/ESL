@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Bomus555
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 195 247 176 353 203 1580 197 1309 203 879 203 663 307 1430 179 2754 178 1260 170 1548 204 1567 200 4225 198
